@@ -11,7 +11,7 @@ const AboutSection = () => {
   ];
 
   return (
-    <section id="about" className="py-12 sm:py-16 md:py-20 text-white">
+    <section id="about" className="py-12 sm:py-16 px-4 sm:px-6 md:px-8 bg-gradient-to-br from-background via-secondary/5 to-background overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
 
         {/* Title */}
